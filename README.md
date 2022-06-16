@@ -1,6 +1,5 @@
 # Katara-Skins
 
-
 # [《HT》 Walnut 1.0 『clrs』](https://drive.google.com/file/d/1wFuBi7jNxBM_hxiZnL8V833YEKmF-mBK/view?usp=sharing)
 ![](https://i.imgur.com/CpHxqOJ.png)
 
@@ -12,10 +11,6 @@
 
 # [✦ - Ninomae Ina'nis - ✦ - (Aristia Edit Gameplay)](https://drive.google.com/file/d/1ilNh_0J4LvWIzlkQWBiR0zOUv7c-9Asz/view?usp=sharing)
 ![](https://i.imgur.com/Upihwph.png)
-
-# [- kariyu cat -](https://drive.google.com/file/d/1N98ftum-w72Frk_S6f-bBdz-dfjEHHqm/view?usp=sharing)
-![](https://i.imgur.com/3s00Og8.png)
-
 
 # [-GawrGura BB](https://drive.google.com/file/d/1MPj_pcP9mUSnz4YvIXpLoEkMWTM_hPLx/view?usp=sharing)
 ![](https://i.imgur.com/t0Mv5rd.png)
@@ -31,9 +26,6 @@
 
 # [FlyingTowa-Tokoyami Towa.osk](https://drive.google.com/file/d/1WVB1p4TfxRriCC9TNYAP73dPQ0afK9Nl/view?usp=sharing)
 ![](https://i.imgur.com/5BkYucE.png)
-
-# [kariyu - theez -](https://drive.google.com/file/d/1SFtNfJFgxQaDNz6XLAbiOY1Ocg_oTinP/view?usp=sharing)
-![](https://i.imgur.com/oDqFFbD.png)
 
 # [Kariyu x Ayunda Risu](https://drive.google.com/file/d/1iCw5c61MsZetJm-c7SJWa9tXCnBsbtUm/view?usp=sharing)
 ![](https://i.imgur.com/C68U74d.png)
